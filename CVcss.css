@@ -37,7 +37,7 @@ div
     width: 48%;
     background-color: #E1FEEE;
 }
-.Linkdin{
+.Linkedin{
 	float: right;
     margin: 10px 0px 10px 0px;
     padding-left:10px;
@@ -66,7 +66,7 @@ h3{
 	text-align:center;
 }
 @media screen and (max-width: 540px) {
-.left ,.right,.Linkdin{
+.left ,.right,.Linkedin{
     width: 98%;
 }
 }
